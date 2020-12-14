@@ -1,4 +1,4 @@
-/*
+/* PROVIDED BY INSTRUCTOR
  * memlib.c - a module that simulates the memory system.  Needed because it
  *            allows us to interleave calls from the student's malloc package
  *            with the system's malloc package in libc.
